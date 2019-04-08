@@ -1,0 +1,36 @@
+.header {
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+    color: #ff6000
+}
+
+.logo {
+    margin-bottom: 10px;
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 100px;
+    background-color: #000000;
+    box-shadow: 0 10px 30px #888888;
+}
+
+.logo-inner {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #ffffff;
+    border-radius: 100px;
+}
+
+.app-title {
+    color: #000000;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.app-subtitle {
+    color: #0e0a07;
+    font-weight: 400;
+    font-size: 12px;
+}

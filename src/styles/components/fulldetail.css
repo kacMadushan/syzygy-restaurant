@@ -1,0 +1,17 @@
+.details-container {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 22%;
+    height: 100%;
+    padding: 30px;
+    box-shadow: 0 10px 10px #d6d6d6;
+    background-color: #ffffff;
+}
+
+.toggle-close {
+  width: 40px;
+  height: 40px;
+  background-color: #000000;
+}

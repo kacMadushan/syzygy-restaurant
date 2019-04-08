@@ -1,0 +1,72 @@
+.ReactModal__Overlay--after-open {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.9) !important;
+}
+
+.ReactModal__Content ReactModal__Content--after-open {
+    border: 1px solid rgb(204, 204, 204);
+}
+
+.recipe-full-details {
+    width: 100%;
+    height: auto;
+    text-align: left;
+}
+
+.recipe-header {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #000000;
+}
+
+.recipe-of-name {
+    color: #000000;
+    font-weight: 700;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.price-lable {
+    color: #000000;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: right;
+    padding: 4px 22px;
+    float: right;
+    background-color: #ffffff;
+}
+
+.recipe-of-dis {
+    color: #0e0a07;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.colse-modal {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 12px;
+    padding: 6px 6px;
+    background-color: #000000;
+    float: right;
+    box-shadow: 0 4px 4px #ababab;
+}
+
+.margin-bottom {
+    margin-bottom: 30px;
+}
+
+.inner-border {
+    width: 29px;
+    height: 29px;
+    padding: 2px;
+    cursor: pointer;
+}
+
+
+.row-gap{
+    padding-bottom: 40px !important;
+}
